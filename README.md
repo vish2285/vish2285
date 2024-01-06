@@ -29,14 +29,6 @@ Code:
 
 * Python 
 
-Tools:
-
-* VS Code
-
-* Unity
-
-* Fusion 360 
-
 Experience:
 
 * Self-Taught Programmmer (1 Year) 
@@ -53,4 +45,4 @@ Experience:
 
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![Fusion360](git.fusions360.com/frontend/resources/fus-user-m)
+![Fusion360](https://img.shields.io/badge/Fusion360-blue)
