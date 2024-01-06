@@ -41,4 +41,5 @@ Fusion 360
 Experience:
 
 Self-Taught Programmmer (1 Year) 
+
 You can view a few of my projects here on my GitHub page!
