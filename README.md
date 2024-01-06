@@ -15,6 +15,7 @@ def vish():
         
     Transferring = "University"
 
+    gradYear= 2027
 
 vish()
 ```
