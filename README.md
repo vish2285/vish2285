@@ -15,14 +15,19 @@ vish()
 Code:
 
 HTML
+
 CSS
+
 JavaScript
+
 Python 
 
 Tools:
 
 VS Code
+
 Unity
+
 Fusion 360 
 
 Experience:
