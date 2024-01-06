@@ -2,24 +2,23 @@ About Me:
 
 My name is Vishwas and I am a Computer Science student!
 
+```python
+def vish():
 
-    def vish():
-
-        # This function defines some variables related to Vish, such as age, hobbies, college, and transferring status.
+    # This function defines some variables related to Vish, such as age, hobbies, college, and transferring status.
     
-        age = 18
+    age = 18
         
-        hobbies = {"Sport": "Basketball", "Fun": "Coding", "Helping at a Non-Profit Organization": "BAPS Charities"}
+    hobbies = {"Sport": "Basketball", "Fun": "Coding", "Helping at a Non-Profit Organization": "BAPS Charities"}
         
-        college = "Folsom Lake College"
+    college = "Folsom Lake College"
         
-        Transferring = "University"
+    Transferring = "University"
 
-    
-    vish()
-  
 
-💼 Credentials
+vish()
+```
+### :briefcase: Credentials
 Code:
 
 * HTML
