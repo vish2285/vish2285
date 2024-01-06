@@ -5,7 +5,7 @@ My name is Vishwas and I am a Computer Science student!
 ```python
 def vish():
 
-    # This function defines some variables related to me, such as age, hobbies, college, and transferring status.
+    # This function defines some variables related to me, such as age, hobbies, college, graduation year, and transferring status.
     
     age = 18
         
