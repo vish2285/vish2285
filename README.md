@@ -22,24 +22,24 @@ My name is Vishwas and I am a Computer Science student!
 💼 Credentials
 Code:
 
-HTML
+    * HTML
 
-CSS
+    * CSS
 
-JavaScript
+    * JavaScript
 
-Python 
+    * Python 
 
 Tools:
 
-VS Code
+    * VS Code
 
-Unity
+    * Unity
 
-Fusion 360 
+    * Fusion 360 
 
 Experience:
 
-Self-Taught Programmmer (1 Year) 
-
-You can view a few of my projects here on my GitHub page!
+* Self-Taught Programmmer (1 Year) 
+    
+* You can view a few of my projects here on my GitHub page!
