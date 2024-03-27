@@ -19,18 +19,7 @@ def vish():
 
 vish()
 ```
-### :briefcase: Credentials
-Code:
-
-* HTML
-
-* CSS
-
-* JavaScript
-
-* Python 
-
-Experience:
+# Experience:
 
 * Self-Taught Programmmer (1 Year) 
     
