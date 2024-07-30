@@ -28,6 +28,6 @@ vish()
 # Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,react)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=py,lua,vscode,replit,discord)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,C++,lua,vscode,replit,discord)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=unity,ps,)](https://skillicons.dev)
