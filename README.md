@@ -26,7 +26,7 @@ vish()
 * You can view a few of my projects here on my GitHub page!
 
 # Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,react,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,react,mongodb,nodejs)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=py,cpp,lua,vscode,git,replit,discord)](https://skillicons.dev)
 
