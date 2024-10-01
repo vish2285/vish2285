@@ -21,9 +21,16 @@ vish()
 ```
 # Experience:
 
-* Self-Taught Programmmer (1 Year) 
+* Self-Taught Programmmer (2 Year) 
     
 * You can view a few of my projects here on my GitHub page!
+
+# Currently Working On:
+
+* Portfolio Website
+* AWS Certificate- Dev OPS
+* JobAlertBot- that alrets new job posting in discord
+* Mern Stack
 
 # Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,react,mongodb,nodejs)](https://skillicons.dev)
