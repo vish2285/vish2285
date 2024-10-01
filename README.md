@@ -12,8 +12,8 @@ def vish():
     hobbies = {"Sport": "Basketball", "Fun": "Coding", "Helping at a Non-Profit Organization": "BAPS Charities"}
         
     college = "Folsom Lake College"
-        
-    Transferring = "University"
+
+    skills = ["OOP", "Algorithms", "Data Structure", "Discerete Structure"]
 
     gradYear= 2027
 
