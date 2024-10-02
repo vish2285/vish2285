@@ -29,7 +29,7 @@ vish()
 
 * Portfolio Website
 * AWS Certificate- Dev OPS
-* JobAlertBot- that alrets new job posting in discord
+* Gear Check
 * Mern Stack
 
 # Tech Stack
