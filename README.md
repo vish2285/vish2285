@@ -27,10 +27,9 @@ vish()
 
 # Currently Working On:
 
-* Portfolio Website
 * AWS Certificate- Dev OPS
-* Gear Check
-* Mern Stack
+* Full Stack
+* Enhancing my Skills
 
 # Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,react,mongodb,nodejs)](https://skillicons.dev)
