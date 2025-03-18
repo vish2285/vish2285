@@ -32,7 +32,7 @@ vish()
 * Enhancing my Skills
 
 # Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,react,mongodb,nodejs,firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,react,mongodb,nodejs,firebase, SCSS)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=py,cpp,lua,vscode,git,replit,discord)](https://skillicons.dev)
 
