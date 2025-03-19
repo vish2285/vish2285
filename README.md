@@ -35,7 +35,7 @@ vish()
 
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=vish2285&count_private=true&show_icons=true&theme=nightowl" alt="Vish's Github Stats" width="45%" />
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=svish2285&theme=nightowl" width="45%" />
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=vish2285&theme=nightowl" width="45%" />
 </p>
 
 <p align="center">
