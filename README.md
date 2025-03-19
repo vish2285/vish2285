@@ -31,7 +31,7 @@ vish()
 * Full Stack
 * Enhancing my Skills
 
-<h2>🏆 Github Stats</h2>
+<h1>🏆 Github Stats</h1>
 
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=vish2285&count_private=true&show_icons=true&theme=nightowl" alt="Vish's Github Stats" width="45%" />
