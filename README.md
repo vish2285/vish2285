@@ -1,4 +1,4 @@
-# About Me:
+# ˙ᵕ˙ About Me:
 
 My name is Vishwas and I am a Computer Science student!
 
@@ -19,13 +19,13 @@ def vish():
 
 vish()
 ```
-# Experience:
+# ✨ Experience:
 
 * Self-Taught Programmmer (2 Year) 
     
 * You can view a few of my projects here on my GitHub page!
 
-# Currently Working On:
+# 📚 Currently Working On:
 
 * AWS Certificate- Dev OPS
 * Full Stack
