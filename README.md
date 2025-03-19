@@ -1,4 +1,4 @@
- ### About Me:
+# About Me:
 
 My name is Vishwas and I am a Computer Science student!
 
@@ -19,7 +19,7 @@ def vish():
 
 vish()
 ```
-### Experience:
+# Experience:
 
 * Self-Taught Programmmer (2 Year) 
     
@@ -45,7 +45,7 @@ vish()
 
 ---
 
-### 🌐 Connect with me:
+# 🌐 Connect with me:
 
 <p align="center">
 
@@ -60,7 +60,7 @@ vish()
   </a>
 </p>
 
-### Tech Stack
+# Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,react,mongodb,nodejs,firebase,sass)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=py,cpp,lua,vscode,git,replit,discord)](https://skillicons.dev)
