@@ -36,12 +36,6 @@ vish()
 
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=vish2285&count_private=true&show_icons=true&theme=nightowl" alt="Vish's Github Stats" width="45%" />
-  <img  src="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=vish2285&theme=nightowl" alt="GitHub Streak" width="45%" />
-</p>
-
-<p align="center">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=vish2285&count_private=true&show_icons=true&theme=nightowl" width="45%">
- <a href="https://github.com/vish2285?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=vish2285&theme=algolia&no-frame=true&column=3&row=2&margin-h=17"  width="45%" alt="Vish's trophy stats"/></a>
 </p>
 
 ---
