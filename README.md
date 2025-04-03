@@ -27,8 +27,9 @@ vish()
 
 # 📚 Currently Working On:
 
-* AWS Certificate- Dev OPS
+* AWS Certificate
 * Full Stack
+* Alvy- AI
 * Enhancing my Skills
 
 <h1>🏆 Github Stats</h1>
