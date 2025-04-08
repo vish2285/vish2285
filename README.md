@@ -7,7 +7,7 @@ def vish():
 
     # This function defines some variables related to me, such as age, hobbies, college, graduation year, and transferring status.
     
-    age = 18
+    age = 19
         
     hobbies = {"Sport": "Basketball", "Fun": "Coding", "Helping at a Non-Profit Organization": "BAPS Charities"}
         
