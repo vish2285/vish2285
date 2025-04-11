@@ -35,7 +35,7 @@ vish()
 <h1>🏆 Github Stats</h1>
 
 <p> 
-  <img src="https://github-readme-stats.vercel.app/api?username=vish2285&count_private=false&show_icons=true&theme=nightowl" alt="Vish's Github Stats" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vish2285&show_icons=true&theme=nightowl" alt="Vish's Github Stats" width="45%" />
 </p>
 
 ---
