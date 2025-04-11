@@ -32,16 +32,6 @@ vish()
 * Alvy- AI
 * Enhancing my Skills
 
-<h1>🏆 Github Stats</h1>
-
-<p> 
-  <img src="https://github-readme-stats.vercel.app/api?username=vish2285&show_icons=true&theme=nightowl&count_private=true" alt="Vish's Github Stats" width="45%" />
-</p>
-<p>
-<img src="./stats.svg" alt="GitHub Stats with Private Contributions" width="45%" />
-</p>
----
-
 # 🌐 Connect with me:
 
 <p align="center">
