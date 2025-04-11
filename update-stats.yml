@@ -1,0 +1,25 @@
+name: Generate GitHub Stats Image
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # runs daily at midnight UTC
+  workflow_dispatch: # allows you to trigger manually
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Generate GitHub Stats
+        run: |
+          curl -o stats.svg "https://github-readme-stats.vercel.app/api?username=vish2285&show_icons=true&theme=nightowl&count_private=true&include_all_commits=true&hide_title=true&hide_border=true" -H "Authorization: token ${{ secrets.GH_TOKEN }}"
+
+      - name: Commit and Push
+        run: |
+          git config user.name "GitHub Action"
+          git config user.email "action@github.com"
+          git add stats.svg
+          git commit -m "Update GitHub stats"
+          git push
