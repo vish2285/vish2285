@@ -12,18 +12,6 @@ class Person:
         self.skills = skills
         self.grad_year = grad_year
 
-    def display_info(self):
-        print(f"Name: {self.name}")
-        print(f"Age: {self.age}")
-        print(f"College: {self.college}")
-        print(f"Graduation Year: {self.grad_year}")
-        print("Hobbies:")
-        for category, activity in self.hobbies.items():
-            print(f"  {category}: {activity}")
-        print("Skills:")
-        for skill in self.skills:
-            print(f"  - {skill}")
-
 
 # Vishwas
 vish = Person(
@@ -38,9 +26,6 @@ vish = Person(
     skills=["OOP", "Algorithms", "Data Structure", "Discrete Structure"],
     grad_year=2027
 )
-
-# Display the info
-vish.display_info()
 
 ```
 # ✨ Experience:
