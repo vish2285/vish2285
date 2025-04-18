@@ -56,7 +56,6 @@ vish = Person(
   </a>
 </p>
 
-# 🧑‍💻 Tech Stack
 # 💻 Tech Stack:
 Languages: 
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) 
@@ -66,6 +65,7 @@ Languages:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 [![My Skills](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
+![C++](https://img.shields.io/badge/:C++)
 
 Developer Tools: 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
