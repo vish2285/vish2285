@@ -13,11 +13,11 @@ My journey combines **programming, cloud security, and AI research** to tackle t
 
 ## 🛠 Skills  
 
-💻 **Languages:** Python, C++, C, JavaScript, Bash  
+💻 **Languages:** Python, C++, C, JavaScript
 
-🧰 **Tools & Platforms:** AWS, Docker, Git
+🧰 **Tools & Platforms:** Docker, Git
 
-🧠 **AI & ML:** TensorFlow, PyTorch, Scikit-Learn, Jupyter, Pandas, NumPy  
+🧠 **AI & ML:** TensorFlow, PyTorch, Jupyter, Pandas, NumPy  
 
 
 ---
